@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>II Ninins Cup 2021 - misc</title><link href="https://ManriqueGarcia.github.io/" rel="alternate"></link><link href="https://ManriqueGarcia.github.io/feeds/misc.atom.xml" rel="self"></link><id>https://ManriqueGarcia.github.io/</id><updated>2021-01-04T00:00:00+01:00</updated><entry><title>este es un ejemplo con md</title><link href="https://ManriqueGarcia.github.io/este-es-un-ejemplo-con-md.html" rel="alternate"></link><published>2021-01-04T00:00:00+01:00</published><updated>2021-01-04T00:00:00+01:00</updated><author><name>dianyu</name></author><id>tag:manriquegarcia.github.io,2021-01-04:/este-es-un-ejemplo-con-md.html</id><content type="html">&lt;ul&gt;
-&lt;li&gt;esto es una prueba *
-&lt;strong&gt; a ver si va bien &lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><category term="misc"></category></entry></feed>
